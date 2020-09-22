@@ -3,7 +3,7 @@
 Introduce
 -
 4-Channel Lora Relay-10A based on the Arduino, users can program it with Arduino IDE, which is very easy especially suit for the none-programmers. There are also guide for users to learn how to create the first IoT project with this board, with which the starters can learn the hardware and programming skill quickly. <br>
-[Makerfabs Wiki](https://www.makerfabs.com/wiki/index.php?title=4-Channel_Lora_Relay-10A) <br>
+[Makerfabs Wiki](https://makerfabs.com/wiki/index.php?title=Main_Page) <br>
 
 Feature
 -
