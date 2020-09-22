@@ -44,7 +44,7 @@ Open the code "LoraTransmitter/LoraTransmitter.ino" and modify the frequency mac
 ```
 #define RF95_FREQ 868.0  
 ```
-Verify and upload it. 
+Verify and upload it. <br>
 ![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_8.png)
 Open the “Tools—Serial Monitor” and the information of Lora Transmitter will be shown in the monitor, as the picture. 
 ![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_5.png)
