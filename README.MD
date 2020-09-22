@@ -58,6 +58,15 @@ Verify and upload it. After finish, open the “Tools—Serial Monitor”, If ha
 ![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_6.png)  <br>
 If the receiver has received it, the relay will be turned on or turned off. Light on when COM connect to NO, light off when COM connect to NC and Normally light off.<br>
 ![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_7.gif) <br>
+Control relay pins: <br>
+|Atmega328P	|Relay |
+|---|---|
+|D4	|K1 |
+|D3	|K2 |
+|A3	|K3 |
+|A2	|K4 |
+
+
 The following table lists all of the relay's pins and their functionality.<br>
 |Pin	|Description | 
 |---|---|
