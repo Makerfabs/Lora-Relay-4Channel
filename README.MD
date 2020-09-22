@@ -45,9 +45,9 @@ Open the code "LoraTransmitter/LoraTransmitter.ino" and modify the frequency mac
 #define RF95_FREQ 868.0  
 ```
 Verify and upload it. <br>
-![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_8.png)
+![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_8.png)  <br>
 Open the “Tools—Serial Monitor” and the information of Lora Transmitter will be shown in the monitor, as the picture. 
-![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_5.png)
+![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_5.png) 
 
  ### Lora receiver
 Open the "LoraReceiver/LoraReceiver.ino" and modify the frequency macro according to your board is 433Mhz or 868Mhz or 915Mhz. 
@@ -55,7 +55,7 @@ Open the "LoraReceiver/LoraReceiver.ino" and modify the frequency macro accordin
 #define RF95_FREQ 868.0 
 ```
 Verify and upload it. After finish, open the “Tools—Serial Monitor”, If have a transmitter next to it, the receive will receive data sent by the Transmitter and the monitor will show the received information in the window, as the picture.
-![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_6.png)
+![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_6.png)  <br>
 If the receiver has received it, the relay will be turned on or turned off. Light on when COM connect to NO, light off when COM connect to NC and Normally light off.<br>
 ![](https://github.com/Makerfabs/Lora-Relay-4Channel/blob/master/md_pic/4-Channel%20Lora%20Relay-10A_7.gif) <br>
 The following table lists all of the relay's pins and their functionality.<br>
